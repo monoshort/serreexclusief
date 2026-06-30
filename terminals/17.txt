@@ -1,0 +1,26 @@
+---
+pid: 18740
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "cd C:\\Users\\bernt\\src\\serreexclusief; npm run build"
+started_at: 2026-06-30T20:39:02.803Z
+running_for_ms: 1025004  
+---
+
+> serreexclusief@1.0.0 build
+> tsc --noEmit && vite build
+
+vite v6.4.3 building for production...
+transforming...
+✓ 674 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                             1.84 kB │ gzip:   0.83 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+dist/assets/index-CPcJ8vcm.css             77.28 kB │ gzip:  12.06 kB
+dist/assets/index-CHl2LFfY.js             308.99 kB │ gzip:  89.74 kB
+dist/assets/SerrePreview3D-DvJ6v7Dh.js  1,227.82 kB │ gzip: 371.88 kB
+✓ built in 9.03s

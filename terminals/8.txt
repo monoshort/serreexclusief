@@ -1,0 +1,18 @@
+---
+pid: 21824
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "npx vite --host"
+started_at: 2026-06-30T19:50:11.870Z
+running_for_ms: 3969992  
+---
+At line:1 char:44
++ (cd "C:\\Users\\bernt\\src\\serreexclusief" ; npx vite --host)
++                                            ~
+Missing closing ')' in expression.
+At line:1 char:62
++ (cd "C:\\Users\\bernt\\src\\serreexclusief" ; npx vite --host)
++                                                              ~
+Unexpected token ')' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInExpression
+ 

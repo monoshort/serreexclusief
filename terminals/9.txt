@@ -1,0 +1,1110 @@
+---
+pid: 21032
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "Set-Location C:\\Users\\bernt\\src\\serreexclusief; npm run dev:web"
+started_at: 2026-06-30T19:50:38.590Z
+running_for_ms: 3939998  
+---
+
+> serreexclusief@1.0.0 dev:web
+> vite
+
+
+  VITE v6.4.3  ready in 459 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+21:54:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:54:26 [vite] (client) hmr update /src/components/Configurator.tsx, /src/index.css
+21:55:35 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+21:55:39 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+21:55:39 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:55:55 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+21:55:56 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:57:22 [vite] (client) hmr update /src/components/CTABanner.tsx, /src/index.css, /src/components/MobileCTA.tsx, /src/components/Inspiration.tsx, /src/components/Header.tsx, /src/components/Process.tsx, /src/components/Testimonials.tsx, /src/components/Footer.tsx, /src/components/Blog.tsx, /src/components/USP.tsx, /src/components/Hero.tsx, /src/components/Models.tsx, /src/components/Showroom.tsx, /src/components/FAQ.tsx, /src/components/Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Logo.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:57:22 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+21:57:22 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:58:13 [vite] (client) hmr update /src/components/Models.tsx, /src/index.css
+21:58:13 [vite] (client) hmr update /src/components/Configurator.tsx, /src/index.css
+21:58:13 [vite] (client) hmr update /src/components/Inspiration.tsx, /src/index.css
+21:58:25 [vite] (client) hmr update /src/components/Configurator.tsx, /src/index.css
+21:59:52 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx, /src/index.css
+21:59:52 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:59:52 [vite] (client) hmr update /src/components/Models.tsx, /src/index.css, /src/components/Configurator.tsx, /src/components/Inspiration.tsx
+21:59:58 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx, /src/index.css
+21:59:58 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:59:58 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+21:59:58 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+22:00:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:02:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+22:02:14 [vite] (client) hmr update /src/components/Models.tsx, /src/index.css, /src/components/Configurator.tsx, /src/components/Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx
+22:02:26 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\InteriorLifestyle.tsx, /src/index.css
+22:02:36 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:02:36 [vite] Internal server error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+      at constructor (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1602:14)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:4892:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7584:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7580:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7517:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7561:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7557:16)
+      at TypeScriptParserMixin.checkParams (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12148:12)
+      at TypeScriptParserMixin.<anonymous> (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12123:14)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13349:48)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13314:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12117:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12103:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9189:18)
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13462:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12420:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13461:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13142:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12808:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9525:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12784:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12761:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13333:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12639:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12629:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14505:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:10143:18)
+      at parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:261:32)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:189:28
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:113:33
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:287:14)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+22:02:40 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx, /src/index.css
+22:02:40 [vite] (client) Pre-transform error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+22:02:40 [vite] Internal server error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+      at constructor (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1602:14)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:4892:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7584:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7580:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7517:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7561:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7557:16)
+      at TypeScriptParserMixin.checkParams (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12148:12)
+      at TypeScriptParserMixin.<anonymous> (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12123:14)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13349:48)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13314:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12117:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12103:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9189:18)
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13462:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12420:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13461:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13142:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12808:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9525:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12784:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12761:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13333:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12639:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12629:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14505:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:10143:18)
+      at parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:261:32)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:189:28
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:113:33
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:287:14)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+22:02:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:02:47 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:02:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:02:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:02:47 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+22:02:47 [vite] Internal server error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+      at constructor (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1602:14)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:4892:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7584:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7580:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7517:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7561:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7557:16)
+      at TypeScriptParserMixin.checkParams (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12148:12)
+      at TypeScriptParserMixin.<anonymous> (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12123:14)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13349:48)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13314:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12117:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12103:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9189:18)
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13462:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12420:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13461:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13142:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12808:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9525:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12784:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12761:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13333:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12639:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12629:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14505:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:10143:18)
+      at parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:261:32)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:189:28
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:113:33
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:287:14)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+22:02:47 [vite] (client) Pre-transform error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+22:02:47 [vite] (client) Pre-transform error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+22:02:47 [vite] Internal server error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+      at constructor (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1602:14)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:4892:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7584:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7580:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7517:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7561:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7557:16)
+      at TypeScriptParserMixin.checkParams (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12148:12)
+      at TypeScriptParserMixin.<anonymous> (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12123:14)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13349:48)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13314:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12117:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12103:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9189:18)
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13462:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12420:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13461:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13142:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12808:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9525:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12784:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12761:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13333:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12639:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12629:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14505:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:10143:18)
+      at parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:261:32)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:189:28
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:113:33
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:287:14)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+22:02:47 [vite] Internal server error: C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx: Identifier 'tint' has already been declared. (356:2)
+
+  354 |   roofNormal,
+  355 |   glassRoof,
+> 356 |   tint,
+      |   ^
+  357 | }: {
+  358 |   config: SerreConfig
+  359 |   width: number
+  Plugin: vite:react-babel
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/RealisticConservatory.tsx:356:2
+  354|    roofNormal,
+  355|    glassRoof,
+  356|    tint,
+     |    ^
+  357|  }: {
+  358|    config: SerreConfig
+      at constructor (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:1602:14)
+      at TypeScriptScopeHandler.declareName (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:4892:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7584:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7580:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7517:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7561:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:7557:16)
+      at TypeScriptParserMixin.checkParams (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12148:12)
+      at TypeScriptParserMixin.<anonymous> (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12123:14)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13349:48)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13314:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12117:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12103:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9189:18)
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13462:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12420:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13461:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13142:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12808:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:9525:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12784:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12761:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13333:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12639:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:12629:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14505:25)
+      at TypeScriptParserMixin.parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:10143:18)
+      at parse (C:\Users\bernt\src\serreexclusief\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:261:32)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:189:28
+      at C:\Users\bernt\src\serreexclusief\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:113:33
+      at step (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:287:14)
+      at C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\bernt\src\serreexclusief\node_modules\gensync\index.js:223:11)
+22:02:48 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:02:48 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+22:02:57 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:04:38 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:04:43 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:04:43 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:04:43 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:04:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:05:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:05:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:05:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:05:50 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:06:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:06:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:06:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:07:34 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx
+22:07:34 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/components/serre3d/ViewCameraRig.tsx
+22:07:34 [vite] (client) hmr update /src/components/CTABanner.tsx, /src/index.css, /src/components/MobileCTA.tsx, /src/components/Inspiration.tsx, /src/components/Header.tsx, /src/components/Process.tsx, /src/components/Testimonials.tsx, /src/components/Footer.tsx, /src/components/Blog.tsx, /src/components/USP.tsx, /src/components/Hero.tsx, /src/components/Models.tsx, /src/components/Showroom.tsx, /src/components/FAQ.tsx, /src/components/Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Logo.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:10:02 [vite] (client) hmr update /src/components/Preview3DControls.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+22:10:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SafePostEffects.tsx, /src/index.css
+22:10:06 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+22:11:51 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+22:13:43 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:13:43 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx
+22:13:43 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx, /src/index.css
+22:13:45 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:13:58 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+22:14:07 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+22:14:08 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+22:14:17 [vite] (client) hmr update /src/components/CTABanner.tsx, /src/index.css, /src/components/MobileCTA.tsx, /src/components/Inspiration.tsx, /src/components/Header.tsx, /src/components/Process.tsx, /src/components/Testimonials.tsx, /src/components/Footer.tsx, /src/components/Blog.tsx, /src/components/USP.tsx, /src/components/Hero.tsx, /src/components/Models.tsx, /src/components/Showroom.tsx, /src/components/FAQ.tsx, /src/components/Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Logo.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PhotorealPreview.tsx
+22:14:17 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/components/serre3d/ViewCameraRig.tsx
+22:14:18 [vite] (client) hmr update /src/components/CTABanner.tsx, /src/index.css, /src/components/MobileCTA.tsx, /src/components/Inspiration.tsx, /src/components/Header.tsx, /src/components/Process.tsx, /src/components/Testimonials.tsx, /src/components/Footer.tsx, /src/components/Blog.tsx, /src/components/USP.tsx, /src/components/Hero.tsx, /src/components/Models.tsx, /src/components/Showroom.tsx, /src/components/FAQ.tsx, /src/components/Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Logo.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PhotorealPreview.tsx
+22:14:21 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /src/components/serre3d/ViewCameraRig.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /src/components/Preview3DControls.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:17:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx, /src/index.css
+22:17:57 [vite] (client) hmr update /src/components/serre3d/ViewCameraRig.tsx, /src/index.css
+22:18:01 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:18:06 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:18:11 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:18:15 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:19:47 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css
+22:19:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:19:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:19:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css, /src/components/serre3d/ViewCameraRig.tsx
+22:19:47 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:19:53 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css
+22:19:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:20:41 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx
+22:20:41 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx, /src/index.css
+22:20:41 [vite] (client) hmr invalidate /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx Could not Fast Refresh (new export)
+22:20:41 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+22:20:54 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:20:54 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+22:20:54 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+22:21:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:21:00 [vite] (client) hmr update /src/components/Preview3DControls.tsx, /src/index.css
+22:21:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx, /src/index.css
+22:21:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SafePostEffects.tsx, /src/index.css
+22:21:01 [vite] (client) hmr invalidate /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneBackdrop.tsx Could not Fast Refresh ("getSceneFog" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+22:21:01 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+22:21:36 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:21:49 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:21:49 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:22:06 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:23:31 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:23:49 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:23:49 [vite] (client) page reload src/components/serre3d/SlopedGlassWall.tsx
+22:25:12 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:25:12 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlopedGlassWall.tsx
+22:25:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlopedGlassWall.tsx, /src/index.css
+22:25:34 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:25:34 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+22:26:05 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+22:26:06 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+22:27:49 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+22:27:50 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+22:28:21 [vite] (client) hmr update /src/components/Models.tsx, /src/index.css, /src/components/Configurator.tsx, /src/components/Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx
+22:28:21 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:28:21 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PhotorealPreview.tsx
+22:28:26 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:28:35 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:28:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\VerandaStructure.tsx, /src/index.css
+22:28:46 [vite] (client) hmr update /src/components/Configurator.tsx, /src/index.css
+22:28:46 [vite] (client) hmr update /src/components/Preview3DControls.tsx, /src/index.css
+22:28:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:28:46 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css
+22:28:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:28:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:30:55 [vite] (client) hmr update /src/components/ImpressionGallery.tsx, /src/index.css
+22:30:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:30:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+22:31:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:31:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+22:31:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:31:17 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:32:04 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\FrameProfile.tsx, /src/index.css
+22:32:04 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:32:04 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PhotorealPreview.tsx
+22:32:11 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:32:11 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlopedGlassWall.tsx, /src/index.css
+22:32:11 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:33:55 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:33:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlopedGlassWall.tsx, /src/index.css
+22:33:55 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:34:00 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:34:09 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:35:18 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:36:17 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:36:17 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:36:17 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx
+22:36:17 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css
+22:36:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:37:52 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:37:52 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlopedGlassWall.tsx, /src/index.css
+22:37:52 [vite] (client) hmr update /src/components/serre3d/SlopedRoof.tsx, /src/index.css
+22:37:52 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:38:57 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css
+22:40:15 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+22:41:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:41:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+22:41:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SlidingDoorWall.tsx, /src/index.css
+22:41:39 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+22:42:57 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+22:43:24 [vite] (client) hmr update /src/components/serre3d/HouseAttachment.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/components/serre3d/SchuifpuiRoom.tsx, /src/components/serre3d/SchuinHouseJunction.tsx
+22:43:24 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+22:43:24 [vite] (client) hmr update /src/components/serre3d/SchuifpuiRoom.tsx, /src/index.css
+22:43:24 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\InteriorLifestyle.tsx, /src/index.css
+22:56:19 [vite] (client) page reload server/db.js

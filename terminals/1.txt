@@ -1,0 +1,1604 @@
+---
+pid: 2272
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "npm run dev"
+started_at: 2026-06-30T18:54:59.601Z
+running_for_ms: 7280004  
+---
+
+> serreexclusief@1.0.0 dev
+> vite
+
+
+  VITE v6.4.3  ready in 448 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+20:57:23 [vite] vite.config.ts changed, restarting server...
+20:57:23 [vite] server restarted.
+20:59:35 [vite] (client) ✨ new dependencies optimized: @react-three/fiber, @react-three/drei
+20:59:35 [vite] (client) ✨ optimized dependencies changed. reloading
+20:59:36 [vite] (client) page reload terminals/1.txt
+20:59:36 [vite] (client) page reload terminals/1.txt
+20:59:36 [vite] (client) page reload terminals/1.txt
+21:00:29 [vite] (client) page reload terminals/.next-id
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:30 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/4.txt
+21:00:31 [vite] (client) page reload terminals/4.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/4.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:31 [vite] (client) page reload terminals/1.txt
+21:00:32 [vite] (client) page reload terminals/1.txt
+21:00:32 [vite] (client) page reload terminals/1.txt
+21:00:32 [vite] (client) page reload terminals/1.txt
+21:00:38 [vite] (client) page reload terminals/1.txt
+21:00:38 [vite] (client) page reload terminals/1.txt
+21:00:39 [vite] (client) page reload terminals/1.txt
+21:00:39 [vite] (client) page reload terminals/1.txt
+21:00:39 [vite] (client) page reload terminals/1.txt
+21:00:55 [vite] vite.config.ts changed, restarting server...
+21:00:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:00:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:00:55 [vite] (client) page reload terminals/1.txt
+21:00:55 [vite] (client) page reload terminals/4.txt
+21:00:56 [vite] (client) page reload terminals/1.txt
+21:00:56 [vite] (client) page reload terminals/4.txt
+21:00:56 [vite] server restarted.
+21:01:17 [vite] (client) page reload src/main.tsx
+21:01:17 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:01:17 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:01:17 [vite] (client) page reload terminals/1.txt
+21:01:17 [vite] (client) page reload terminals/1.txt
+21:01:17 [vite] (client) page reload terminals/1.txt
+21:01:22 [vite] (client) page reload terminals/1.txt
+21:01:23 [vite] (client) page reload terminals/1.txt
+21:01:23 [vite] (client) page reload terminals/1.txt
+21:01:23 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:01:24 [vite] (client) page reload terminals/1.txt
+21:02:24 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:02:24 [vite] (client) page reload terminals/1.txt
+21:02:27 [vite] (client) page reload terminals/1.txt
+21:02:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:02:33 [vite] (client) page reload terminals/1.txt
+21:02:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:02:33 [vite] (client) page reload terminals/1.txt
+21:02:33 [vite] (client) page reload terminals/1.txt
+21:02:37 [vite] (client) page reload terminals/1.txt
+21:02:37 [vite] (client) page reload terminals/1.txt
+21:02:49 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:02:49 [vite] (client) page reload terminals/1.txt
+21:02:49 [vite] (client) page reload terminals/1.txt
+21:02:49 [vite] (client) page reload terminals/1.txt
+21:02:49 [vite] (client) page reload terminals/1.txt
+21:03:24 [vite] (client) page reload package.json
+21:03:24 [vite] (client) page reload terminals/1.txt
+21:03:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+21:03:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:03:51 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:03:51 [vite] (client) page reload terminals/1.txt
+21:03:51 [vite] (client) page reload terminals/1.txt
+21:03:51 [vite] (client) page reload terminals/1.txt
+21:03:51 [vite] (client) page reload terminals/1.txt
+21:03:51 [vite] (client) page reload terminals/1.txt
+21:03:52 [vite] (client) page reload terminals/1.txt
+21:03:52 [vite] (client) page reload terminals/1.txt
+21:03:52 [vite] (client) page reload terminals/1.txt
+21:03:53 [vite] (client) ✨ new dependencies optimized: @react-three/postprocessing, postprocessing
+21:03:53 [vite] (client) ✨ optimized dependencies changed. reloading
+21:03:54 [vite] (client) page reload terminals/1.txt
+21:03:56 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+21:03:56 [vite] (client) page reload terminals/1.txt
+21:04:00 [vite] (client) page reload terminals/1.txt
+21:04:00 [vite] (client) page reload terminals/1.txt
+21:05:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\Landscape.tsx, /src/index.css
+21:05:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+21:05:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+21:05:30 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:05:30 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:05:30 [vite] (client) page reload terminals/1.txt
+21:05:30 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:05:31 [vite] (client) page reload terminals/1.txt
+21:06:42 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:06:42 [vite] (client) page reload terminals/1.txt
+21:06:42 [vite] (client) Pre-transform error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6: ERROR: Expected ">" but found "textures"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6
+  
+  Expected ">" but found "textures"
+  53 |    return (
+  54 |      <ConservatoryTexturesProvider
+  55 |        textures={{ brickMap, brickNormal, brickRough, woodMap, grassMap, pavingMap, concreteMap, roofMap }}
+     |        ^
+  56 |      />
+  57 |    )
+  
+21:06:42 [vite] (client) page reload terminals/1.txt
+21:06:42 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6: ERROR: Expected ">" but found "textures"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6
+  
+  Expected ">" but found "textures"
+  53 |    return (
+  54 |      <ConservatoryTexturesProvider
+  55 |        textures={{ brickMap, brickNormal, brickRough, woodMap, grassMap, pavingMap, concreteMap, roofMap }}
+     |        ^
+  56 |      />
+  57 |    )
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:42 [vite] (client) page reload terminals/1.txt
+21:06:42 [vite] (client) page reload terminals/1.txt
+21:06:42 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6: ERROR: Expected ">" but found "textures"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:55:6
+  
+  Expected ">" but found "textures"
+  53 |    return (
+  54 |      <ConservatoryTexturesProvider
+  55 |        textures={{ brickMap, brickNormal, brickRough, woodMap, grassMap, pavingMap, concreteMap, roofMap }}
+     |        ^
+  56 |      />
+  57 |    )
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:50 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:06:50 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+21:06:50 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+21:06:50 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] (client) Pre-transform error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:51 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:51 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:51 [vite] (client) page reload terminals/1.txt
+21:06:52 [vite] (client) page reload terminals/1.txt
+21:06:52 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:06:57 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: React.ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:07:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:07:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:07:02 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) Pre-transform error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+21:07:02 [vite] (client) Pre-transform error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+21:07:02 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:02 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] (client) page reload terminals/1.txt
+21:07:03 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:07:05 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:07:05 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:06 [vite] (client) page reload terminals/1.txt
+21:07:07 [vite] (client) page reload terminals/1.txt
+21:07:07 [vite] Internal server error: Transform failed with 1 error:
+C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35: ERROR: Expected ">" but found "value"
+  Plugin: vite:esbuild
+  File: C:/Users/bernt/src/serreexclusief/src/components/serre3d/textures.ts:66:35
+  
+  Expected ">" but found "value"
+  64 |    children: ReactNode
+  65 |  }) {
+  66 |    return <TexturesContext.Provider value={textures}>{children}</TexturesContext.Provider>
+     |                                     ^
+  67 |  }
+  68 |  
+  
+      at failureErrorWithLog (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\bernt\src\serreexclusief\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+21:07:12 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:07:12 [vite] (client) page reload terminals/1.txt
+21:07:12 [vite] (client) page reload terminals/1.txt
+21:07:12 [vite] (client) page reload terminals/1.txt
+21:07:12 [vite] (client) page reload terminals/1.txt
+21:07:12 [vite] (client) page reload terminals/1.txt
+21:07:13 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:23 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:24 [vite] (client) page reload terminals/1.txt
+21:07:25 [vite] (client) page reload terminals/1.txt
+21:07:29 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:07:29 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:30 [vite] (client) page reload terminals/1.txt
+21:07:31 [vite] (client) page reload terminals/1.txt
+21:07:31 [vite] (client) page reload terminals/1.txt
+21:07:31 [vite] (client) page reload terminals/1.txt
+21:07:31 [vite] (client) page reload terminals/1.txt
+21:07:34 [vite] (client) page reload terminals/1.txt
+21:07:34 [vite] (client) page reload terminals/1.txt
+21:09:33 [vite] (client) hmr update /src/index.css
+21:09:34 [vite] (client) page reload terminals/1.txt
+21:09:34 [vite] (client) page reload terminals/1.txt
+21:09:44 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /src/index.css
+21:09:44 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /src/index.css
+21:09:44 [vite] (client) page reload terminals/1.txt
+21:09:44 [vite] (client) page reload terminals/1.txt
+21:09:45 [vite] (client) page reload terminals/1.txt
+21:09:45 [vite] (client) page reload terminals/1.txt
+21:10:00 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:10:00 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /src/index.css
+21:10:01 [vite] (client) page reload terminals/1.txt
+21:10:01 [vite] (client) page reload terminals/1.txt
+21:10:01 [vite] (client) page reload terminals/1.txt
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\App.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:10:27 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:10:27 [vite] (client) page reload terminals/1.txt
+21:10:27 [vite] (client) page reload terminals/1.txt
+21:10:27 [vite] (client) page reload terminals/1.txt
+21:10:27 [vite] (client) page reload terminals/1.txt
+21:10:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /src/index.css
+21:10:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /src/index.css
+21:10:32 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:10:32 [vite] (client) page reload terminals/1.txt
+21:10:32 [vite] (client) page reload terminals/1.txt
+21:10:32 [vite] (client) page reload terminals/1.txt
+21:10:32 [vite] (client) page reload terminals/1.txt
+21:10:32 [vite] (client) page reload terminals/1.txt
+21:10:33 [vite] (client) page reload terminals/1.txt
+21:10:33 [vite] (client) page reload terminals/1.txt
+21:10:33 [vite] (client) page reload terminals/1.txt
+21:10:38 [vite] (client) page reload terminals/1.txt
+21:10:38 [vite] (client) page reload terminals/1.txt
+21:10:47 [vite] (client) page reload terminals/.next-id
+21:10:47 [vite] (client) page reload terminals/1.txt
+21:10:47 [vite] (client) page reload terminals/5.txt
+21:10:47 [vite] (client) page reload terminals/1.txt
+21:10:47 [vite] (client) page reload terminals/5.txt
+21:10:47 [vite] (client) page reload terminals/1.txt
+21:10:47 [vite] (client) page reload terminals/1.txt
+21:10:47 [vite] (client) page reload terminals/1.txt
+21:10:48 [vite] (client) page reload terminals/1.txt
+21:10:48 [vite] (client) page reload terminals/1.txt
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:26:21 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+21:26:22 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+21:26:22 [vite] (client) page reload terminals/1.txt
+21:26:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\App.tsx, /src/index.css
+21:26:46 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx
+21:26:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /src/index.css
+21:26:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /src/index.css
+21:26:46 [vite] (client) page reload terminals/1.txt
+21:26:46 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /src/index.css
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:47 [vite] (client) page reload terminals/1.txt
+21:26:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /src/index.css
+21:26:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:26:59 [vite] (client) page reload terminals/1.txt
+21:26:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /src/index.css
+21:26:59 [vite] (client) page reload terminals/1.txt
+21:26:59 [vite] (client) page reload terminals/1.txt
+21:26:59 [vite] (client) page reload terminals/1.txt
+21:27:00 [vite] (client) page reload terminals/1.txt
+21:27:00 [vite] (client) page reload terminals/1.txt
+21:27:07 [vite] (client) hmr update /src/index.css
+21:27:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:27:07 [vite] (client) page reload index.html
+21:27:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:27:07 [vite] (client) page reload terminals/1.txt
+21:27:07 [vite] (client) page reload terminals/4.txt
+21:27:07 [vite] (client) page reload terminals/1.txt
+21:27:07 [vite] (client) page reload terminals/1.txt
+21:27:08 [vite] (client) page reload terminals/1.txt
+21:27:08 [vite] (client) page reload terminals/1.txt
+21:27:08 [vite] (client) page reload terminals/1.txt
+21:27:17 [vite] (client) page reload terminals/1.txt
+21:27:17 [vite] (client) page reload terminals/1.txt
+21:27:17 [vite] (client) page reload terminals/1.txt
+21:27:17 [vite] (client) page reload terminals/1.txt
+21:27:29 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /src/index.css
+21:27:29 [vite] (client) page reload terminals/1.txt
+21:27:29 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /src/index.css
+21:27:29 [vite] (client) page reload terminals/1.txt
+21:27:29 [vite] (client) page reload terminals/1.txt
+21:27:29 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:30 [vite] (client) page reload terminals/1.txt
+21:27:52 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SectionHeading.tsx, /src/index.css
+21:27:52 [vite] (client) page reload terminals/1.txt
+21:27:52 [vite] (client) page reload terminals/1.txt
+21:28:09 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/components/MobileCTA.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx
+21:28:10 [vite] (client) page reload terminals/1.txt
+21:28:10 [vite] (client) page reload terminals/1.txt
+21:28:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/index.css
+21:28:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /src/index.css
+21:28:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /src/index.css
+21:28:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /src/index.css
+21:28:33 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /src/index.css
+21:28:33 [vite] (client) page reload terminals/1.txt
+21:28:33 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:34 [vite] (client) page reload terminals/1.txt
+21:28:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:28:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\App.tsx, /src/index.css
+21:28:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:28:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\App.tsx, /src/index.css
+21:28:53 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /src/index.css
+21:28:53 [vite] (client) page reload terminals/1.txt
+21:28:53 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:54 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:55 [vite] (client) page reload terminals/1.txt
+21:28:56 [vite] (client) page reload terminals/1.txt
+21:29:03 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\Patio.tsx, /src/index.css
+21:29:03 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /src/index.css
+21:29:03 [vite] (client) hmr update /src/index.css
+21:29:03 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\InteriorLifestyle.tsx, /src/index.css
+21:29:04 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\App.tsx, /src/index.css
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:04 [vite] (client) hmr invalidate /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\Patio.tsx Could not Fast Refresh (new export)
+21:29:04 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:04 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:05 [vite] (client) page reload terminals/1.txt
+21:29:06 [vite] (client) page reload terminals/1.txt
+21:29:06 [vite] (client) page reload terminals/1.txt
+21:29:06 [vite] (client) page reload terminals/1.txt
+21:29:06 [vite] (client) page reload terminals/1.txt
+21:29:06 [vite] (client) page reload terminals/1.txt
+21:29:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /src/index.css
+21:29:07 [vite] (client) page reload terminals/1.txt
+21:29:07 [vite] (client) page reload terminals/1.txt
+21:29:07 [vite] (client) page reload terminals/1.txt
+21:29:07 [vite] (client) page reload terminals/1.txt
+21:29:07 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:08 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:09 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:10 [vite] (client) page reload terminals/1.txt
+21:29:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:29:14 [vite] (client) page reload terminals/1.txt
+21:29:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:29:14 [vite] (client) page reload terminals/1.txt
+21:29:14 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:15 [vite] (client) page reload terminals/1.txt
+21:29:19 [vite] (client) page reload terminals/1.txt
+21:37:42 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:37:42 [vite] (client) page reload terminals/1.txt
+21:37:43 [vite] (client) page reload terminals/1.txt
+21:37:44 [vite] (client) page reload terminals/1.txt
+21:37:44 [vite] (client) page reload terminals/1.txt
+21:37:44 [vite] (client) page reload terminals/1.txt
+21:37:44 [vite] (client) page reload terminals/1.txt
+21:37:44 [vite] (client) page reload terminals/1.txt
+21:38:06 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:38:06 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:38:07 [vite] (client) page reload terminals/1.txt
+21:38:07 [vite] (client) page reload terminals/1.txt
+21:38:08 [vite] (client) page reload terminals/1.txt
+21:38:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /src/index.css
+21:38:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:38:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:38:12 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /src/index.css
+21:38:13 [vite] (client) page reload terminals/1.txt
+21:38:13 [vite] (client) page reload terminals/1.txt
+21:38:13 [vite] (client) page reload terminals/1.txt
+21:38:13 [vite] (client) page reload terminals/1.txt
+21:38:14 [vite] (client) page reload terminals/1.txt
+21:38:14 [vite] (client) page reload terminals/1.txt
+21:38:14 [vite] (client) page reload terminals/1.txt
+21:38:22 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:38:22 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:38:22 [vite] (client) page reload terminals/1.txt
+21:38:23 [vite] (client) page reload terminals/1.txt
+21:38:23 [vite] (client) page reload terminals/1.txt
+21:38:24 [vite] (client) page reload terminals/1.txt
+21:38:24 [vite] (client) page reload terminals/1.txt
+21:38:25 [vite] (client) page reload terminals/1.txt
+21:38:28 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:38:28 [vite] (client) page reload terminals/1.txt
+21:38:28 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:38:29 [vite] (client) page reload terminals/1.txt
+21:38:29 [vite] (client) page reload terminals/1.txt
+21:38:29 [vite] (client) page reload terminals/1.txt
+21:38:29 [vite] (client) page reload terminals/1.txt
+21:38:29 [vite] (client) page reload terminals/1.txt
+21:38:30 [vite] (client) page reload terminals/1.txt
+21:38:31 [vite] (client) page reload terminals/1.txt
+21:38:43 [vite] (client) page reload terminals/.next-id
+21:38:44 [vite] (client) page reload terminals/1.txt
+21:38:45 [vite] (client) page reload terminals/1.txt
+21:39:19 [vite] (client) page reload terminals/1.txt
+21:39:19 [vite] (client) page reload terminals/1.txt
+21:39:20 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:39:20 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:39:20 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:21 [vite] (client) page reload terminals/1.txt
+21:39:22 [vite] (client) page reload terminals/1.txt
+21:39:22 [vite] (client) page reload terminals/1.txt
+21:39:22 [vite] (client) page reload terminals/1.txt
+21:39:22 [vite] (client) page reload terminals/1.txt
+21:39:22 [vite] (client) page reload terminals/1.txt
+21:39:23 [vite] (client) page reload terminals/1.txt
+21:39:49 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:39:49 [vite] (client) page reload terminals/1.txt
+21:39:49 [vite] (client) page reload terminals/1.txt
+21:39:50 [vite] (client) page reload terminals/1.txt
+21:39:55 [vite] (client) page reload terminals/1.txt
+21:39:56 [vite] (client) page reload terminals/1.txt
+21:40:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:40:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:40:14 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview.tsx, /src/index.css
+21:40:14 [vite] (client) page reload terminals/1.txt
+21:40:14 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:40:14 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:15 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:16 [vite] (client) page reload terminals/1.txt
+21:40:17 [vite] (client) page reload terminals/1.txt
+21:40:19 [vite] (client) page reload terminals/1.txt
+21:40:19 [vite] (client) page reload terminals/1.txt
+21:40:19 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:20 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:21 [vite] (client) page reload terminals/1.txt
+21:40:22 [vite] (client) page reload terminals/1.txt
+21:40:22 [vite] (client) page reload terminals/1.txt
+21:40:22 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:23 [vite] (client) page reload terminals/1.txt
+21:40:24 [vite] (client) page reload terminals/1.txt
+21:41:41 [vite] (client) page reload src/types.ts
+21:41:41 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/components/MobileCTA.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Showroom.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:41:55 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/components/MobileCTA.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Showroom.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:55 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:56 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:57 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:58 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:41:59 [vite] (client) page reload terminals/1.txt
+21:42:00 [vite] (client) page reload terminals/1.txt
+21:42:04 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/components/MobileCTA.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Showroom.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:42:04 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Configurator.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Models.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\USP.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Footer.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Header.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\FAQ.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Inspiration.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Process.tsx, /src/components/MobileCTA.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Hero.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\CTABanner.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\ConfigSpecs.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\Showroom.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx
+21:42:04 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:05 [vite] (client) page reload terminals/1.txt
+21:42:06 [vite] (client) page reload terminals/1.txt
+21:42:06 [vite] (client) page reload terminals/1.txt
+21:42:06 [vite] (client) page reload terminals/1.txt
+21:42:07 [vite] (client) page reload terminals/1.txt
+21:42:20 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\Testimonials.tsx, /src/index.css
+21:42:21 [vite] (client) page reload terminals/1.txt
+21:42:21 [vite] (client) page reload terminals/1.txt
+21:42:21 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:22 [vite] (client) page reload terminals/1.txt
+21:42:35 [vite] (client) page reload terminals/1.txt
+21:42:36 [vite] (client) page reload terminals/1.txt
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:43:07 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:43:07 [vite] (client) page reload terminals/1.txt
+21:43:07 [vite] (client) page reload terminals/1.txt
+21:43:07 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:08 [vite] (client) page reload terminals/1.txt
+21:43:34 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SceneLighting.tsx, /src/index.css
+21:43:34 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:43:34 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:43:34 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\FrameProfile.tsx, /src/index.css
+21:43:34 [vite] (client) page reload src/components/serre3d/types.ts
+21:43:34 [vite] (client) page reload terminals/1.txt
+21:43:34 [vite] (client) page reload terminals/1.txt
+21:43:38 [vite] (client) page reload terminals/1.txt
+21:43:40 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:43:40 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\PostEffects.tsx, /src/index.css
+21:43:40 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\Landscape.tsx, /src/index.css
+21:43:43 [vite] (client) page reload terminals/1.txt
+21:43:43 [vite] (client) page reload terminals/1.txt
+21:43:44 [vite] (client) page reload terminals/1.txt
+21:43:44 [vite] (client) page reload terminals/1.txt
+21:43:58 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:43:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:43:59 [vite] (client) page reload terminals/1.txt
+21:44:00 [vite] (client) page reload terminals/1.txt
+21:44:01 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\InteriorLifestyle.tsx, /src/index.css
+21:44:01 [vite] (client) page reload terminals/1.txt
+21:44:01 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\InteriorLifestyle.tsx, /src/index.css
+21:44:01 [vite] (client) page reload terminals/1.txt
+21:44:01 [vite] (client) page reload terminals/1.txt
+21:44:02 [vite] (client) page reload terminals/1.txt
+21:44:02 [vite] (client) page reload terminals/1.txt
+21:44:04 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\VerandaStructure.tsx, /src/index.css
+21:44:04 [vite] (client) page reload terminals/1.txt
+21:44:04 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\VerandaStructure.tsx, /src/index.css
+21:44:04 [vite] (client) page reload terminals/1.txt
+21:44:04 [vite] (client) page reload terminals/1.txt
+21:44:04 [vite] (client) page reload terminals/1.txt
+21:44:05 [vite] (client) page reload terminals/1.txt
+21:44:05 [vite] (client) page reload terminals/1.txt
+21:44:05 [vite] (client) page reload terminals/1.txt
+21:44:05 [vite] (client) page reload terminals/1.txt
+21:44:05 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /src/index.css
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:07 [vite] (client) page reload terminals/1.txt
+21:44:08 [vite] (client) page reload terminals/1.txt
+21:44:08 [vite] (client) page reload terminals/1.txt
+21:44:08 [vite] (client) page reload terminals/1.txt
+21:44:08 [vite] (client) page reload terminals/1.txt
+21:44:08 [vite] (client) page reload terminals/1.txt
+21:44:09 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\SchuifpuiStructure.tsx, /src/index.css
+21:44:09 [vite] (client) page reload terminals/1.txt
+21:44:10 [vite] (client) page reload terminals/1.txt
+21:44:10 [vite] (client) page reload terminals/1.txt
+21:44:10 [vite] (client) page reload terminals/1.txt
+21:44:17 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:44:17 [vite] (client) page reload terminals/1.txt
+21:44:18 [vite] (client) page reload terminals/1.txt
+21:44:18 [vite] (client) page reload terminals/1.txt
+21:44:30 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:44:31 [vite] (client) page reload terminals/1.txt
+21:44:31 [vite] (client) page reload terminals/1.txt
+21:44:31 [vite] (client) page reload terminals/1.txt
+21:44:31 [vite] (client) page reload terminals/1.txt
+21:44:39 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:40 [vite] (client) page reload terminals/1.txt
+21:44:41 [vite] (client) page reload terminals/1.txt
+21:44:41 [vite] (client) page reload terminals/1.txt
+21:44:41 [vite] (client) page reload terminals/1.txt
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:45:04 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+21:45:05 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_file_contents.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_get.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_starred_repositories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_dependabot_alert.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_notifications.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_code_scanning_alert.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_code_quality_finding.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_me.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_issues.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/discussion_comment_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_branches.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_latest_release.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion_comments.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_list.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_label.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_releases.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_get.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/merge_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/projects_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_commits.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_notification_subscription.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issues.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/triage_issue.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_commit.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/label_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_label.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_discussion.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request_branch.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_issue_comment.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_copilot_spaces.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/dismiss_notification.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_release_by_tag.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_fields.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_pull_requests.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_review_write.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_commits.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_issue_types.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_code.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_list.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_global_security_advisory.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_secret_scanning_alert.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/github_support_docs_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_repositories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_pull_requests.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_team_members.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_orgs.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/actions_run_trigger.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/unstar_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/request_copilot_review.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/update_gist.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_code_scanning_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_global_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_tag.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussion_categories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issues_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_notification_details.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_copilot_space.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_security_advisories.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_repository_tree.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_discussions.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/star_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/push_files.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/mark_all_notifications_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_pull_request.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_or_update_file.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/issue_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/search_users.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_job_logs.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/delete_file.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_tags.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_gists.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/add_comment_to_pending_review.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/get_teams.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/run_secret_scanning.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_dependabot_alerts.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/list_repository_collaborators.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/fork_repository.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/pull_request_read.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/create_branch.json
+21:45:06 [vite] (client) page reload mcps/grok_com_github/tools/sub_issue_write.json
+21:45:07 [vite] (client) page reload terminals/1.txt
+21:45:07 [vite] (client) page reload terminals/1.txt
+21:45:08 [vite] (client) page reload terminals/1.txt
+21:45:09 [vite] (client) page reload terminals/1.txt
+21:45:09 [vite] (client) page reload terminals/1.txt
+21:45:10 [vite] (client) page reload terminals/1.txt
+21:45:10 [vite] (client) page reload terminals/1.txt
+21:45:31 [vite] (client) page reload terminals/1.txt
+21:45:36 [vite] (client) page reload terminals/1.txt
+21:46:19 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\RealisticConservatory.tsx, /@fs/C:\Users\bernt\src\serreexclusief\src\components\serre3d\ConservatoryScene.tsx
+21:46:19 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\SerrePreview3D.tsx, /src/index.css
+21:46:19 [vite] (client) page reload terminals/1.txt
+21:46:20 [vite] (client) page reload terminals/1.txt
+21:46:20 [vite] (client) page reload terminals/1.txt
+21:46:20 [vite] (client) page reload terminals/1.txt
+21:46:52 [vite] (client) page reload terminals/1.txt
+node:internal/fs/watchers:321
+    const error = new UVException({
+                  ^
+
+Error: EBUSY: resource busy or locked, watch 'C:\Users\bernt\src\serreexclusief\public\logo-white.svg'
+    at FSWatcher.<computed> (node:internal/fs/watchers:321:19)
+    at Object.watch (node:fs:2548:36)
+    at createFsWatchInstance (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22195:17)
+    at setFsWatchListener (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22242:15)
+    at NodeFsHandler._watchWithNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22397:14)
+    at NodeFsHandler._handleFile (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22461:23)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22703:21)
+Emitted 'error' event on FSWatcher instance at:
+    at FSWatcher._handleError (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:23896:10)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22711:18) {
+  errno: -4082,
+  syscall: 'watch',
+  code: 'EBUSY',
+  path: 'C:\\Users\\bernt\\src\\serreexclusief\\public\\logo-white.svg',
+  filename: 'C:\\Users\\bernt\\src\\serreexclusief\\public\\logo-white.svg'
+}
+
+Node.js v24.18.0

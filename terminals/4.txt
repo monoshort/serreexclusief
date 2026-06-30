@@ -1,0 +1,49 @@
+---
+pid: 23864
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "npm run dev:web"
+started_at: 2026-06-30T19:00:29.776Z
+running_for_ms: 6949999  
+---
+
+> serreexclusief@1.0.0 dev:web
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v6.4.3  ready in 450 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+21:00:39 [vite] (client) page reload terminals/1.txt
+21:00:55 [vite] vite.config.ts changed, restarting server...
+21:00:55 [vite] (client) hmr update /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx, /src/index.css
+21:00:55 [vite] (client) hmr update /src/index.css, /@fs/C:\Users\bernt\src\serreexclusief\src\components\PreviewPanel.tsx
+21:00:55 [vite] (client) page reload terminals/1.txt
+21:00:55 [vite] (client) page reload terminals/4.txt
+21:00:55 [vite] (client) Re-optimizing dependencies because vite config has changed
+21:00:56 [vite] server restarted.
+21:27:07 [vite] (client) page reload index.html
+node:internal/fs/watchers:321
+    const error = new UVException({
+                  ^
+
+Error: EBUSY: resource busy or locked, watch 'C:\Users\bernt\src\serreexclusief\public\logo-white.svg'
+    at FSWatcher.<computed> (node:internal/fs/watchers:321:19)
+    at Object.watch (node:fs:2548:36)
+    at createFsWatchInstance (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22195:17)
+    at setFsWatchListener (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22242:15)
+    at NodeFsHandler._watchWithNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22397:14)
+    at NodeFsHandler._handleFile (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22461:23)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22703:21)
+Emitted 'error' event on FSWatcher instance at:
+    at FSWatcher._handleError (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:23896:10)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/bernt/src/serreexclusief/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:22711:18) {
+  errno: -4082,
+  syscall: 'watch',
+  code: 'EBUSY',
+  path: 'C:\\Users\\bernt\\src\\serreexclusief\\public\\logo-white.svg',
+  filename: 'C:\\Users\\bernt\\src\\serreexclusief\\public\\logo-white.svg'
+}
+
+Node.js v24.18.0

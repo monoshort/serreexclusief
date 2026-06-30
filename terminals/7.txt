@@ -1,0 +1,18 @@
+---
+pid: 23772
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "npm run dev:web"
+started_at: 2026-06-30T19:50:06.142Z
+running_for_ms: 3975015  
+---
+At line:1 char:44
++ (cd "C:\\Users\\bernt\\src\\serreexclusief" ; npm run dev:web)
++                                            ~
+Missing closing ')' in expression.
+At line:1 char:62
++ (cd "C:\\Users\\bernt\\src\\serreexclusief" ; npm run dev:web)
++                                                              ~
+Unexpected token ')' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInExpression
+ 
