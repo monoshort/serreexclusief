@@ -1,0 +1,19 @@
+---
+pid: 22044
+cwd: "C:\Users\bernt\src\serreexclusief"
+command: "Set-Location C:\\Users\\bernt\\src\\serreexclusief; echo \"\" | npx vercel@latest login 2>&1"
+started_at: 2026-06-30T20:59:19.312Z
+running_for_ms: 445001   
+---
+Vercel CLI 54.18.6 (Node.js 24.18.0)
+> 
+  Visit https://vercel.com/oauth/device?user_code=KZQT-VJQR
+
+Waiting for authentication...
+
+  Congratulations! You are now signed in.
+
+  To deploy something, run `vercel`.
+
+  💡 To deploy every commit automatically,
+  connect a Git Repository (vercel.link/git (https://vercel.link/git)).

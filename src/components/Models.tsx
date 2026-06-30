@@ -30,14 +30,14 @@ function ModelImage({ model }: { model: (typeof models)[0] }) {
           else setLoaded(true)
         }}
       />
-      <div className="absolute bottom-0 left-0 right-0 p-5 z-10 translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-300">
+      <div className="absolute bottom-0 left-0 right-0 p-4 sm:p-5 z-10 translate-y-0 opacity-100 sm:translate-y-2 sm:opacity-0 sm:group-hover:translate-y-0 sm:group-hover:opacity-100 transition-all duration-300">
         <a
           href={`#configurator?model=${model.id}`}
           onClick={(e) => {
             e.preventDefault()
             openConfiguratorWithModel(model.id)
           }}
-          className="inline-flex items-center gap-2 px-5 py-2.5 bg-gold text-forest-dark text-sm font-semibold rounded-full shadow-lg"
+          className="inline-flex items-center gap-2 min-h-[44px] px-5 py-2.5 bg-gold text-forest-dark text-sm font-semibold rounded-full shadow-lg"
         >
           Configureer dit model
         </a>
@@ -87,6 +87,16 @@ function ModelCard({ model, featured = false }: { model: (typeof models)[0]; fea
             </span>
           ))}
         </div>
+        <a
+          href={`#configurator?model=${model.id}`}
+          onClick={(e) => {
+            e.preventDefault()
+            openConfiguratorWithModel(model.id)
+          }}
+          className="sm:hidden mt-4 flex items-center justify-center min-h-[44px] w-full py-3 bg-forest text-cream text-sm font-semibold rounded-xl hover:bg-forest-light transition-colors"
+        >
+          Configureer dit model
+        </a>
       </div>
     </article>
   )

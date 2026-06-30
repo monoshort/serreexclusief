@@ -1,0 +1,442 @@
+Initialized empty Git repository in C:/Users/bernt/src/serreexclusief/.git/
+warning: in the working copy of '.env.example', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'agent-tools/30073592-8aa4-4bb2-b882-be4621e4c52b.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'agent-tools/db49311f-a8d4-4beb-bc38-b5f0068c6445.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'api/health.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'api/quotes/[id].js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'api/quotes/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/actions_get.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/actions_list.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/actions_run_trigger.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/add_comment_to_pending_review.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/add_issue_comment.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/check_dependency_vulnerabilities.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/create_branch.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/create_gist.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/create_or_update_file.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/create_pull_request.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/create_repository.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/delete_file.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/discussion_comment_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/dismiss_notification.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/fork_repository.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_code_quality_finding.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_code_scanning_alert.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_commit.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_copilot_space.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_dependabot_alert.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_discussion.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_discussion_comments.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_file_contents.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_gist.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_global_security_advisory.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_job_logs.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_label.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_latest_release.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_me.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_notification_details.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_release_by_tag.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_repository_tree.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_secret_scanning_alert.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_tag.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_team_members.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/get_teams.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/github_support_docs_search.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/issue_read.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/issue_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/label_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_branches.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_code_scanning_alerts.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_commits.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_copilot_spaces.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_dependabot_alerts.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_discussion_categories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_discussions.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_gists.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_global_security_advisories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_issue_fields.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_issue_types.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_issues.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_label.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_notifications.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_org_repository_security_advisories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_pull_requests.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_releases.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_repository_collaborators.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_repository_security_advisories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_secret_scanning_alerts.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_starred_repositories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/list_tags.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/manage_notification_subscription.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/manage_repository_notification_subscription.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/mark_all_notifications_read.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/merge_pull_request.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/projects_get.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/projects_list.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/projects_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/pull_request_read.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/pull_request_review_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/push_files.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/request_copilot_review.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/run_secret_scanning.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_code.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_commits.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_issues.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_orgs.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_pull_requests.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_repositories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/search_users.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/semantic_issue_similarity_search.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/semantic_issues_search.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/star_repository.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/sub_issue_write.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/triage_issue.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/unstar_repository.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/update_gist.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/update_pull_request.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/grok_com_github/tools/update_pull_request_branch.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/favicon.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/logo-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/logo-lines.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/logo-white.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server/db.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server/email.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Blog.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/CTABanner.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ConfigSpecs.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Configurator.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/FAQ.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Footer.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Header.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Hero.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ImpressionGallery.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Inspiration.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Logo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/MobileCTA.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Models.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/PhotorealPreview.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Preview3DControls.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/PreviewErrorBoundary.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/PreviewPanel.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Process.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ReviewModal.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/SectionDivider.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/SectionHeading.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/SerrePreview3D.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Showroom.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Testimonials.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/TrustStrip.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/USP.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/ConservatoryScene.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/ExteriorPlants.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/FrameProfile.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/HouseAttachment.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/InteriorLifestyle.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/Landscape.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/Patio.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/PostEffects.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/RealisticConservatory.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SafePostEffects.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SceneBackdrop.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SceneInteractionContext.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SceneLighting.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SchuifpuiRoom.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SchuifpuiStructure.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SchuinHouseJunction.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SlidingDoorWall.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SlopedGlassWall.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/SlopedRoof.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/VerandaStructure.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/ViewCameraRig.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/proceduralTextures.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/textures.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/serre3d/types.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useActiveSection.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useCountUp.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useHeaderScroll.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useScrollReveal.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useStaggerReveal.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/aiBackdrops.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/api.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/configuratorNav.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/doorAnimation.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/housePlacement.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/impressionSceneMatch.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/modelDefaults.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/modelImpressions.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/modelVisuals.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/pricing.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/roofSlope.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/lib/sceneInteraction.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/types.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/1.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/10.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/11.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/12.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/13.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/14.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/15.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/16.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/17.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/18.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/19.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/2.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/3.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/4.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/5.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/6.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/7.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/8.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/9.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.node.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vercel.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.ts', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) 4427814] Deploy Serre Exclusief configurator to Vercel
+ 235 files changed, 21673 insertions(+)
+ create mode 100644 .env.example
+ create mode 100644 .gitignore
+ create mode 100644 agent-tools/30073592-8aa4-4bb2-b882-be4621e4c52b.txt
+ create mode 100644 agent-tools/db49311f-a8d4-4beb-bc38-b5f0068c6445.txt
+ create mode 100644 api/health.js
+ create mode 100644 api/quotes/[id].js
+ create mode 100644 api/quotes/index.js
+ create mode 100644 index.html
+ create mode 100644 mcps/grok_com_github/tools/actions_get.json
+ create mode 100644 mcps/grok_com_github/tools/actions_list.json
+ create mode 100644 mcps/grok_com_github/tools/actions_run_trigger.json
+ create mode 100644 mcps/grok_com_github/tools/add_comment_to_pending_review.json
+ create mode 100644 mcps/grok_com_github/tools/add_issue_comment.json
+ create mode 100644 mcps/grok_com_github/tools/add_reply_to_pull_request_comment.json
+ create mode 100644 mcps/grok_com_github/tools/check_dependency_vulnerabilities.json
+ create mode 100644 mcps/grok_com_github/tools/create_branch.json
+ create mode 100644 mcps/grok_com_github/tools/create_gist.json
+ create mode 100644 mcps/grok_com_github/tools/create_or_update_file.json
+ create mode 100644 mcps/grok_com_github/tools/create_pull_request.json
+ create mode 100644 mcps/grok_com_github/tools/create_repository.json
+ create mode 100644 mcps/grok_com_github/tools/delete_file.json
+ create mode 100644 mcps/grok_com_github/tools/discussion_comment_write.json
+ create mode 100644 mcps/grok_com_github/tools/dismiss_notification.json
+ create mode 100644 mcps/grok_com_github/tools/fork_repository.json
+ create mode 100644 mcps/grok_com_github/tools/get_code_quality_finding.json
+ create mode 100644 mcps/grok_com_github/tools/get_code_scanning_alert.json
+ create mode 100644 mcps/grok_com_github/tools/get_commit.json
+ create mode 100644 mcps/grok_com_github/tools/get_copilot_space.json
+ create mode 100644 mcps/grok_com_github/tools/get_dependabot_alert.json
+ create mode 100644 mcps/grok_com_github/tools/get_discussion.json
+ create mode 100644 mcps/grok_com_github/tools/get_discussion_comments.json
+ create mode 100644 mcps/grok_com_github/tools/get_file_contents.json
+ create mode 100644 mcps/grok_com_github/tools/get_gist.json
+ create mode 100644 mcps/grok_com_github/tools/get_global_security_advisory.json
+ create mode 100644 mcps/grok_com_github/tools/get_job_logs.json
+ create mode 100644 mcps/grok_com_github/tools/get_label.json
+ create mode 100644 mcps/grok_com_github/tools/get_latest_release.json
+ create mode 100644 mcps/grok_com_github/tools/get_me.json
+ create mode 100644 mcps/grok_com_github/tools/get_notification_details.json
+ create mode 100644 mcps/grok_com_github/tools/get_release_by_tag.json
+ create mode 100644 mcps/grok_com_github/tools/get_repository_tree.json
+ create mode 100644 mcps/grok_com_github/tools/get_secret_scanning_alert.json
+ create mode 100644 mcps/grok_com_github/tools/get_tag.json
+ create mode 100644 mcps/grok_com_github/tools/get_team_members.json
+ create mode 100644 mcps/grok_com_github/tools/get_teams.json
+ create mode 100644 mcps/grok_com_github/tools/github_support_docs_search.json
+ create mode 100644 mcps/grok_com_github/tools/issue_read.json
+ create mode 100644 mcps/grok_com_github/tools/issue_write.json
+ create mode 100644 mcps/grok_com_github/tools/label_write.json
+ create mode 100644 mcps/grok_com_github/tools/list_branches.json
+ create mode 100644 mcps/grok_com_github/tools/list_code_scanning_alerts.json
+ create mode 100644 mcps/grok_com_github/tools/list_commits.json
+ create mode 100644 mcps/grok_com_github/tools/list_copilot_spaces.json
+ create mode 100644 mcps/grok_com_github/tools/list_dependabot_alerts.json
+ create mode 100644 mcps/grok_com_github/tools/list_discussion_categories.json
+ create mode 100644 mcps/grok_com_github/tools/list_discussions.json
+ create mode 100644 mcps/grok_com_github/tools/list_gists.json
+ create mode 100644 mcps/grok_com_github/tools/list_global_security_advisories.json
+ create mode 100644 mcps/grok_com_github/tools/list_issue_fields.json
+ create mode 100644 mcps/grok_com_github/tools/list_issue_types.json
+ create mode 100644 mcps/grok_com_github/tools/list_issues.json
+ create mode 100644 mcps/grok_com_github/tools/list_label.json
+ create mode 100644 mcps/grok_com_github/tools/list_notifications.json
+ create mode 100644 mcps/grok_com_github/tools/list_org_repository_security_advisories.json
+ create mode 100644 mcps/grok_com_github/tools/list_pull_requests.json
+ create mode 100644 mcps/grok_com_github/tools/list_releases.json
+ create mode 100644 mcps/grok_com_github/tools/list_repository_collaborators.json
+ create mode 100644 mcps/grok_com_github/tools/list_repository_security_advisories.json
+ create mode 100644 mcps/grok_com_github/tools/list_secret_scanning_alerts.json
+ create mode 100644 mcps/grok_com_github/tools/list_starred_repositories.json
+ create mode 100644 mcps/grok_com_github/tools/list_tags.json
+ create mode 100644 mcps/grok_com_github/tools/manage_notification_subscription.json
+ create mode 100644 mcps/grok_com_github/tools/manage_repository_notification_subscription.json
+ create mode 100644 mcps/grok_com_github/tools/mark_all_notifications_read.json
+ create mode 100644 mcps/grok_com_github/tools/merge_pull_request.json
+ create mode 100644 mcps/grok_com_github/tools/projects_get.json
+ create mode 100644 mcps/grok_com_github/tools/projects_list.json
+ create mode 100644 mcps/grok_com_github/tools/projects_write.json
+ create mode 100644 mcps/grok_com_github/tools/pull_request_read.json
+ create mode 100644 mcps/grok_com_github/tools/pull_request_review_write.json
+ create mode 100644 mcps/grok_com_github/tools/push_files.json
+ create mode 100644 mcps/grok_com_github/tools/request_copilot_review.json
+ create mode 100644 mcps/grok_com_github/tools/run_secret_scanning.json
+ create mode 100644 mcps/grok_com_github/tools/search_code.json
+ create mode 100644 mcps/grok_com_github/tools/search_commits.json
+ create mode 100644 mcps/grok_com_github/tools/search_issues.json
+ create mode 100644 mcps/grok_com_github/tools/search_orgs.json
+ create mode 100644 mcps/grok_com_github/tools/search_pull_requests.json
+ create mode 100644 mcps/grok_com_github/tools/search_repositories.json
+ create mode 100644 mcps/grok_com_github/tools/search_users.json
+ create mode 100644 mcps/grok_com_github/tools/semantic_issue_similarity_search.json
+ create mode 100644 mcps/grok_com_github/tools/semantic_issues_search.json
+ create mode 100644 mcps/grok_com_github/tools/star_repository.json
+ create mode 100644 mcps/grok_com_github/tools/sub_issue_write.json
+ create mode 100644 mcps/grok_com_github/tools/triage_issue.json
+ create mode 100644 mcps/grok_com_github/tools/unstar_repository.json
+ create mode 100644 mcps/grok_com_github/tools/update_gist.json
+ create mode 100644 mcps/grok_com_github/tools/update_pull_request.json
+ create mode 100644 mcps/grok_com_github/tools/update_pull_request_branch.json
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 public/favicon.jpg
+ create mode 100644 public/favicon.svg
+ create mode 100644 public/impressions/3d/backdrop-day.jpg
+ create mode 100644 public/impressions/3d/backdrop-evening.jpg
+ create mode 100644 public/impressions/3d/backdrop-rainy.jpg
+ create mode 100644 public/impressions/3d/env-day.jpg
+ create mode 100644 public/impressions/3d/env-evening.jpg
+ create mode 100644 public/impressions/3d/env-golden.jpg
+ create mode 100644 public/impressions/3d/env-interior.jpg
+ create mode 100644 public/impressions/3d/env-rainy.jpg
+ create mode 100644 public/impressions/houten/hero-exterior.jpg
+ create mode 100644 public/impressions/houten/interior-living.jpg
+ create mode 100644 public/impressions/schuifpui/evening-luxury.jpg
+ create mode 100644 public/impressions/schuifpui/hero-exterior.jpg
+ create mode 100644 public/impressions/steellook/evening-luxury.jpg
+ create mode 100644 public/impressions/steellook/hero-exterior.jpg
+ create mode 100644 public/impressions/steellook/interior-living.jpg
+ create mode 100644 public/impressions/tuinkamer/cozy-rain.jpg
+ create mode 100644 public/impressions/tuinkamer/evening-garden.jpg
+ create mode 100644 public/impressions/tuinkamer/hero-exterior.jpg
+ create mode 100644 public/impressions/uitbouw/breakfast-lifestyle.jpg
+ create mode 100644 public/impressions/uitbouw/cozy-rain.jpg
+ create mode 100644 public/impressions/uitbouw/evening-ambiance.jpg
+ create mode 100644 public/impressions/uitbouw/evening-luxury.jpg
+ create mode 100644 public/impressions/uitbouw/exterior-golden-hour.jpg
+ create mode 100644 public/impressions/uitbouw/hero-exterior.jpg
+ create mode 100644 public/impressions/uitbouw/interior-lifestyle.jpg
+ create mode 100644 public/impressions/uitbouw/interior-living.jpg
+ create mode 100644 public/impressions/uitbouw/morning-breakfast.jpg
+ create mode 100644 public/impressions/uitbouw/rainy-cozy.jpg
+ create mode 100644 public/logo-dark.svg
+ create mode 100644 public/logo-lines.svg
+ create mode 100644 public/logo-white.svg
+ create mode 100644 server/db.js
+ create mode 100644 server/email.js
+ create mode 100644 server/index.js
+ create mode 100644 src/App.tsx
+ create mode 100644 src/components/Blog.tsx
+ create mode 100644 src/components/CTABanner.tsx
+ create mode 100644 src/components/ConfigSpecs.tsx
+ create mode 100644 src/components/Configurator.tsx
+ create mode 100644 src/components/FAQ.tsx
+ create mode 100644 src/components/Footer.tsx
+ create mode 100644 src/components/Header.tsx
+ create mode 100644 src/components/Hero.tsx
+ create mode 100644 src/components/ImpressionGallery.tsx
+ create mode 100644 src/components/Inspiration.tsx
+ create mode 100644 src/components/Logo.tsx
+ create mode 100644 src/components/MobileCTA.tsx
+ create mode 100644 src/components/Models.tsx
+ create mode 100644 src/components/PhotorealPreview.tsx
+ create mode 100644 src/components/Preview3DControls.tsx
+ create mode 100644 src/components/PreviewErrorBoundary.tsx
+ create mode 100644 src/components/PreviewPanel.tsx
+ create mode 100644 src/components/Process.tsx
+ create mode 100644 src/components/ReviewModal.tsx
+ create mode 100644 src/components/SectionDivider.tsx
+ create mode 100644 src/components/SectionHeading.tsx
+ create mode 100644 src/components/SerrePreview3D.tsx
+ create mode 100644 src/components/Showroom.tsx
+ create mode 100644 src/components/Testimonials.tsx
+ create mode 100644 src/components/TrustStrip.tsx
+ create mode 100644 src/components/USP.tsx
+ create mode 100644 src/components/serre3d/ConservatoryScene.tsx
+ create mode 100644 src/components/serre3d/ExteriorPlants.tsx
+ create mode 100644 src/components/serre3d/FrameProfile.tsx
+ create mode 100644 src/components/serre3d/HouseAttachment.tsx
+ create mode 100644 src/components/serre3d/InteriorLifestyle.tsx
+ create mode 100644 src/components/serre3d/Landscape.tsx
+ create mode 100644 src/components/serre3d/Patio.tsx
+ create mode 100644 src/components/serre3d/PostEffects.tsx
+ create mode 100644 src/components/serre3d/RealisticConservatory.tsx
+ create mode 100644 src/components/serre3d/SafePostEffects.tsx
+ create mode 100644 src/components/serre3d/SceneBackdrop.tsx
+ create mode 100644 src/components/serre3d/SceneInteractionContext.tsx
+ create mode 100644 src/components/serre3d/SceneLighting.tsx
+ create mode 100644 src/components/serre3d/SchuifpuiRoom.tsx
+ create mode 100644 src/components/serre3d/SchuifpuiStructure.tsx
+ create mode 100644 src/components/serre3d/SchuinHouseJunction.tsx
+ create mode 100644 src/components/serre3d/SlidingDoorWall.tsx
+ create mode 100644 src/components/serre3d/SlopedGlassWall.tsx
+ create mode 100644 src/components/serre3d/SlopedRoof.tsx
+ create mode 100644 src/components/serre3d/VerandaStructure.tsx
+ create mode 100644 src/components/serre3d/ViewCameraRig.tsx
+ create mode 100644 src/components/serre3d/proceduralTextures.ts
+ create mode 100644 src/components/serre3d/textures.ts
+ create mode 100644 src/components/serre3d/types.ts
+ create mode 100644 src/data.ts
+ create mode 100644 src/hooks/useActiveSection.ts
+ create mode 100644 src/hooks/useCountUp.ts
+ create mode 100644 src/hooks/useHeaderScroll.ts
+ create mode 100644 src/hooks/useScrollReveal.ts
+ create mode 100644 src/hooks/useStaggerReveal.ts
+ create mode 100644 src/index.css
+ create mode 100644 src/lib/aiBackdrops.ts
+ create mode 100644 src/lib/api.ts
+ create mode 100644 src/lib/configuratorNav.ts
+ create mode 100644 src/lib/doorAnimation.ts
+ create mode 100644 src/lib/housePlacement.ts
+ create mode 100644 src/lib/impressionSceneMatch.ts
+ create mode 100644 src/lib/modelDefaults.ts
+ create mode 100644 src/lib/modelImpressions.ts
+ create mode 100644 src/lib/modelVisuals.ts
+ create mode 100644 src/lib/pricing.ts
+ create mode 100644 src/lib/roofSlope.ts
+ create mode 100644 src/lib/sceneInteraction.ts
+ create mode 100644 src/main.tsx
+ create mode 100644 src/types.ts
+ create mode 100644 src/vite-env.d.ts
+ create mode 100644 terminals/.next-id
+ create mode 100644 terminals/1.txt
+ create mode 100644 terminals/10.txt
+ create mode 100644 terminals/11.txt
+ create mode 100644 terminals/12.txt
+ create mode 100644 terminals/13.txt
+ create mode 100644 terminals/14.txt
+ create mode 100644 terminals/15.txt
+ create mode 100644 terminals/16.txt
+ create mode 100644 terminals/17.txt
+ create mode 100644 terminals/18.txt
+ create mode 100644 terminals/19.txt
+ create mode 100644 terminals/2.txt
+ create mode 100644 terminals/3.txt
+ create mode 100644 terminals/4.txt
+ create mode 100644 terminals/5.txt
+ create mode 100644 terminals/6.txt
+ create mode 100644 terminals/7.txt
+ create mode 100644 terminals/8.txt
+ create mode 100644 terminals/9.txt
+ create mode 100644 tsconfig.app.json
+ create mode 100644 tsconfig.json
+ create mode 100644 tsconfig.node.json
+ create mode 100644 vercel.json
+ create mode 100644 vite.config.ts

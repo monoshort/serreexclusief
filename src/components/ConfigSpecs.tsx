@@ -61,9 +61,9 @@ export default function ConfigSpecs({ config }: Props) {
         ))}
       </div>
 
-      <div className="grid grid-cols-3 gap-2">
+      <div className="grid grid-cols-3 gap-2 sm:gap-2">
         {specs.map((spec) => (
-          <div key={spec.label} className="bg-cream/80 rounded-xl p-3 text-center border border-cream-dark/40">
+          <div key={spec.label} className="bg-cream/80 rounded-xl p-2.5 sm:p-3 text-center border border-cream-dark/40">
             <svg className="w-4 h-4 text-gold mx-auto mb-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d={spec.icon} />
             </svg>

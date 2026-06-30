@@ -50,7 +50,7 @@ function ReviewCard({ review, onOpen, featured = false }: { review: Testimonial;
               </span>
             )}
           </div>
-          <div className="absolute bottom-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
+          <div className="absolute bottom-3 right-3 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity">
             <span className="px-3 py-1.5 bg-gold text-forest-dark text-xs font-semibold rounded-full">
               Lees verhaal →
             </span>
@@ -166,17 +166,21 @@ export default function Testimonials() {
           )}
 
           {filtered.length > 1 && (
-            <div className="flex justify-center gap-2 pt-4">
+            <div className="flex justify-center gap-1 pt-4">
               {filtered.map((_, i) => (
                 <button
                   key={i}
                   type="button"
                   onClick={() => setFeaturedIndex(i)}
-                  className={`h-1.5 rounded-full transition-all ${
-                    i === featuredIndex % filtered.length ? 'w-8 bg-gold' : 'w-2 bg-forest/20 hover:bg-forest/40'
-                  }`}
+                  className="flex items-center justify-center min-w-[44px] min-h-[44px] p-3"
                   aria-label={`Uitgelichte review ${i + 1}`}
-                />
+                >
+                  <span
+                    className={`block h-1.5 rounded-full transition-all ${
+                      i === featuredIndex % filtered.length ? 'w-8 bg-gold' : 'w-2.5 bg-forest/20 hover:bg-forest/40'
+                    }`}
+                  />
+                </button>
               ))}
             </div>
           )}

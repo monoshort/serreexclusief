@@ -19,7 +19,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <main>
+      <main className="pb-20 lg:pb-0">
         <Hero />
         <TrustStrip />
         <USP />

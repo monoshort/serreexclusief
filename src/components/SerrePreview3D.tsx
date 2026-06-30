@@ -1,6 +1,7 @@
 import { Canvas } from '@react-three/fiber'
 import { Suspense, useCallback, useMemo, useState } from 'react'
 import * as THREE from 'three'
+import { useMediaQuery } from '../hooks/useMediaQuery'
 import { getImagineRenderSettings } from '../lib/aiBackdrops'
 import {
   getSceneMatch,
@@ -61,6 +62,7 @@ export default function SerrePreview3D({ config, impressionSrc }: Props) {
     return match ?? slides.find((s) => s.type === 'ai') ?? slides[0]
   }, [config, impressionSrc])
 
+  const isMobile = useMediaQuery('(max-width: 1023px)')
   const [doorsOpen, setDoorsOpen] = useState(false)
   const [viewMode, setViewMode] = useState<ViewMode3D>('exterior')
   const [renderMode, setRenderMode] = useState<RenderMode3D>('interactive')
@@ -93,7 +95,7 @@ export default function SerrePreview3D({ config, impressionSrc }: Props) {
   )
 
   return (
-    <div className="relative w-full aspect-[4/3] min-h-[300px] rounded-xl overflow-hidden bg-gradient-to-b from-[#c8dce8] to-[#dce8d4]">
+    <div className="relative w-full aspect-[4/3] min-h-[240px] sm:min-h-[280px] lg:min-h-[300px] rounded-xl overflow-hidden bg-gradient-to-b from-[#c8dce8] to-[#dce8d4]">
       <Preview3DControls
         doorsOpen={doorsOpen}
         onToggleDoors={toggleDoors}
@@ -113,8 +115,8 @@ export default function SerrePreview3D({ config, impressionSrc }: Props) {
       ) : (
         <div className="absolute inset-0 touch-none cursor-grab active:cursor-grabbing">
           <Canvas
-            shadows
-            dpr={[1, 2]}
+            shadows={!isMobile}
+            dpr={isMobile ? [1, 1.25] : [1, 2]}
             camera={{
               position: exteriorCam.position,
               fov: exteriorCam.fov,
@@ -145,23 +147,23 @@ export default function SerrePreview3D({ config, impressionSrc }: Props) {
         </div>
       )}
 
-      <div className="absolute top-3 left-3 z-10 pointer-events-none flex flex-col gap-1">
-        <span className="px-2.5 py-1 bg-forest/90 backdrop-blur text-cream text-[10px] font-semibold rounded-full">
+      <div className="absolute top-2 left-2 sm:top-3 sm:left-3 z-10 pointer-events-none flex flex-col gap-1 max-w-[45%]">
+        <span className="px-2.5 py-1 bg-forest/90 backdrop-blur text-cream text-[10px] font-semibold rounded-full truncate">
           {vis.label}
         </span>
         {renderMode === 'interactive' && showDoorControls && doorsOpen && (
-          <span className="px-2 py-0.5 bg-forest/75 backdrop-blur text-cream text-[9px] font-medium rounded-full">
+          <span className="hidden sm:inline px-2 py-0.5 bg-forest/75 backdrop-blur text-cream text-[9px] font-medium rounded-full">
             Schuifpui open
           </span>
         )}
         {renderMode === 'interactive' && (
-          <span className="px-2 py-0.5 bg-gold/80 backdrop-blur text-forest-dark text-[9px] font-medium rounded-full">
+          <span className="hidden sm:inline px-2 py-0.5 bg-gold/80 backdrop-blur text-forest-dark text-[9px] font-medium rounded-full">
             ✦ Imagine 360°
           </span>
         )}
       </div>
 
-      <div className="absolute bottom-3 left-3 right-3 z-10 flex justify-between text-xs text-charcoal/70 pointer-events-none">
+      <div className="absolute bottom-14 sm:bottom-3 left-2 right-2 sm:left-3 sm:right-3 z-10 flex justify-between text-[10px] sm:text-xs text-charcoal/70 pointer-events-none">
         <span>
           {renderMode === 'photoreal'
             ? 'Fotorealistische render'

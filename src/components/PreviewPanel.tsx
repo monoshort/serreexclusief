@@ -19,12 +19,16 @@ interface Props {
 type ViewMode = ConfiguratorView
 
 function initialView(): ViewMode {
-  return parseConfiguratorView() ?? (parseConfiguratorModel() ? '3d' : 'split')
+  const fromHash = parseConfiguratorView()
+  if (fromHash) return fromHash
+  if (parseConfiguratorModel()) return '3d'
+  if (typeof window !== 'undefined' && window.matchMedia('(max-width: 1023px)').matches) return '3d'
+  return 'split'
 }
 
 function Preview3DFallback() {
   return (
-    <div className="relative w-full aspect-[4/3] min-h-[240px] rounded-xl overflow-hidden bg-gradient-to-b from-[#c8dce8] to-[#dce8d4] flex flex-col items-center justify-center gap-2 text-sm text-charcoal/60">
+    <div className="relative w-full aspect-[4/3] min-h-[220px] sm:min-h-[240px] rounded-xl overflow-hidden bg-gradient-to-b from-[#c8dce8] to-[#dce8d4] flex flex-col items-center justify-center gap-2 text-sm text-charcoal/60">
       <div className="w-7 h-7 border-2 border-gold border-t-transparent rounded-full animate-spin" />
       3D wordt geladen…
     </div>
@@ -69,16 +73,19 @@ export default function PreviewPanel({ config }: Props) {
     { id: 'impressie', label: 'Impressie' },
   ]
 
+  const showDoorHint =
+    config.options.includes('schuifpui') || config.model === 'minimalistische-schuifpui'
+
   return (
     <div className="space-y-4">
-      <div className="flex items-center justify-between gap-2">
-        <div className="inline-flex p-1 bg-cream rounded-xl border border-cream-dark/60">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+        <div className="inline-flex p-1 bg-cream rounded-xl border border-cream-dark/60 w-full sm:w-auto">
           {tabs.map((tab) => (
             <button
               key={tab.id}
               type="button"
               onClick={() => setView(tab.id)}
-              className={`px-3 py-1.5 rounded-lg text-[11px] font-semibold transition-all ${
+              className={`flex-1 sm:flex-none min-h-[44px] sm:min-h-0 px-3 py-2 sm:py-1.5 rounded-lg text-xs sm:text-[11px] font-semibold transition-all ${
                 view === tab.id
                   ? 'bg-forest text-cream shadow-sm'
                   : 'text-charcoal/55 hover:text-forest'
@@ -89,9 +96,15 @@ export default function PreviewPanel({ config }: Props) {
           ))}
         </div>
         {view !== 'impressie' && (
-          <span className="text-[10px] text-charcoal/40 hidden sm:inline">
-            Sleep om te draaien · scroll om te zoomen
-            {config.options.includes('schuifpui') || config.model === 'minimalistische-schuifpui' ? ' · open schuifpui' : ''}
+          <span className="text-[11px] text-charcoal/50 text-center sm:text-right">
+            <span className="sm:hidden">
+              Sleep om te draaien · knijp om te zoomen
+              {showDoorHint ? ' · tik op schuifpui' : ''}
+            </span>
+            <span className="hidden sm:inline">
+              Sleep om te draaien · scroll om te zoomen
+              {showDoorHint ? ' · open schuifpui' : ''}
+            </span>
           </span>
         )}
       </div>

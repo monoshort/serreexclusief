@@ -3,7 +3,7 @@ pid: 23864
 cwd: "C:\Users\bernt\src\serreexclusief"
 command: "npm run dev:web"
 started_at: 2026-06-30T19:00:29.776Z
-running_for_ms: 6949999  
+running_for_ms: 7590009  
 ---
 
 > serreexclusief@1.0.0 dev:web

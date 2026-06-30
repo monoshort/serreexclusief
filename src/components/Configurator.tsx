@@ -117,7 +117,7 @@ export default function Configurator() {
                 key={label}
                 type="button"
                 onClick={() => setStep(i)}
-                className={`flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm whitespace-nowrap transition-all ${
+                className={`flex items-center gap-2 px-3 sm:px-4 py-2.5 min-h-[44px] rounded-xl text-sm whitespace-nowrap transition-all ${
                   i === step
                     ? 'bg-gold text-forest-dark font-semibold shadow-lg shadow-gold/20'
                     : i < step
@@ -132,23 +132,23 @@ export default function Configurator() {
                 >
                   {i < step ? '✓' : i + 1}
                 </span>
-                <span className="hidden sm:inline">{label}</span>
+                <span className="text-xs sm:text-sm">{label}</span>
               </button>
             ))}
           </div>
         </div>
 
         <div className="grid lg:grid-cols-12 gap-8">
-          {/* Preview panel */}
-          <div className="lg:col-span-5 lg:sticky lg:top-28 lg:self-start space-y-4">
+          {/* Preview panel — onder formulier op mobiel */}
+          <div className="lg:col-span-5 lg:sticky lg:top-28 lg:self-start space-y-4 order-2 lg:order-1">
             <div className="bg-white rounded-3xl p-4 sm:p-5 shadow-[0_20px_60px_rgba(0,0,0,0.25)] ring-1 ring-white/10">
               <PreviewPanel config={config} />
             </div>
             <ConfigSpecs config={config} />
-            <div className="bg-forest/80 backdrop-blur rounded-2xl p-6 border border-gold/25 shadow-lg relative overflow-hidden">
+            <div className="bg-forest/80 backdrop-blur rounded-2xl p-5 sm:p-6 border border-gold/25 shadow-lg relative overflow-hidden">
               <div className="absolute top-0 right-0 w-24 h-24 bg-gold/10 rounded-full blur-2xl -translate-y-1/2 translate-x-1/2" />
               <p className="text-cream/60 text-sm mb-1">Prijsindicatie (excl. BTW)</p>
-              <p className="font-display text-3xl text-gold font-semibold">
+              <p className="font-display text-2xl sm:text-3xl text-gold font-semibold">
                 {formatEuro(price.range[0])} – {formatEuro(price.range[1])}
               </p>
               <p className="text-cream/50 text-xs mt-2">
@@ -166,8 +166,8 @@ export default function Configurator() {
             </div>
           </div>
 
-          {/* Config panel */}
-          <div className="lg:col-span-7 bg-white rounded-3xl p-6 sm:p-8 shadow-[0_20px_60px_rgba(0,0,0,0.2)] ring-1 ring-white/10">
+          {/* Config panel — eerst op mobiel */}
+          <div className="lg:col-span-7 order-1 lg:order-2 bg-white rounded-3xl p-5 sm:p-6 lg:p-8 shadow-[0_20px_60px_rgba(0,0,0,0.2)] ring-1 ring-white/10">
             <div key={step} className="step-enter">
             {step === 0 && (
               <div className="space-y-4">
@@ -245,7 +245,7 @@ export default function Configurator() {
                 </div>
                 <div>
                   <label className="text-sm font-medium text-charcoal mb-3 block">Daktype</label>
-                  <div className={`grid gap-3 ${roofOptions.length === 1 ? 'grid-cols-1' : 'grid-cols-3'}`}>
+                  <div className={`grid gap-3 ${roofOptions.length === 1 ? 'grid-cols-1' : 'grid-cols-2 sm:grid-cols-3'}`}>
                     {roofOptions.map((roofId) => {
                       const labels: Record<RoofType, string> = {
                         plat: 'Plat dak',
@@ -279,7 +279,7 @@ export default function Configurator() {
                 {config.model === 'houten-serre' && (
                   <div>
                     <label className="text-sm font-medium text-charcoal mb-3 block">Houtsoort</label>
-                    <div className="grid grid-cols-3 gap-3">
+                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                       {(['iroko', 'meranti', 'accoya'] as WoodType[]).map((wood) => (
                         <button
                           key={wood}
@@ -301,7 +301,7 @@ export default function Configurator() {
                 {config.model !== 'houten-serre' && (
                   <div>
                     <label className="text-sm font-medium text-charcoal mb-3 block">Kozijnkleur (RAL)</label>
-                    <div className="grid grid-cols-4 gap-3">
+                    <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
                       {ralColors.map((color) => (
                         <button
                           key={color.code}

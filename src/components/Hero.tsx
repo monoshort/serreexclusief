@@ -121,17 +121,21 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="absolute bottom-20 left-1/2 -translate-x-1/2 flex gap-2 z-10">
+      <div className="absolute bottom-24 sm:bottom-20 left-1/2 -translate-x-1/2 flex gap-1 z-10">
         {heroSlides.map((s, i) => (
           <button
             key={s.src}
             type="button"
             onClick={() => setSlide(i)}
-            className={`h-1 rounded-full transition-all duration-500 ${
-              i === slide ? 'w-8 bg-gold' : 'w-2 bg-cream/30 hover:bg-cream/50'
-            }`}
+            className="flex items-center justify-center min-w-[44px] min-h-[44px] p-3"
             aria-label={`Slide ${i + 1}: ${s.label}`}
-          />
+          >
+            <span
+              className={`block h-1.5 rounded-full transition-all duration-500 ${
+                i === slide ? 'w-8 bg-gold' : 'w-2.5 bg-cream/30 hover:bg-cream/50'
+              }`}
+            />
+          </button>
         ))}
       </div>
 

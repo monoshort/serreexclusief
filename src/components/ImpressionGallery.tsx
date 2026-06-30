@@ -17,6 +17,10 @@ export default function ImpressionGallery({ config, onSlideChange }: Props) {
   const impression = getModelImpressions(config)
   const [index, setIndex] = useState(0)
   const [loaded, setLoaded] = useState(false)
+  const [touchStart, setTouchStart] = useState<number | null>(null)
+
+  const goPrev = () => setIndex((i) => (i - 1 + impression.slides.length) % impression.slides.length)
+  const goNext = () => setIndex((i) => (i + 1) % impression.slides.length)
 
   useEffect(() => {
     setIndex(0)
@@ -60,7 +64,16 @@ export default function ImpressionGallery({ config, onSlideChange }: Props) {
         </span>
       </div>
 
-      <div className="relative rounded-xl overflow-hidden aspect-[16/10] bg-forest/8 group">
+      <div
+        className="relative rounded-xl overflow-hidden aspect-[16/10] bg-forest/8 group"
+        onTouchStart={(e) => setTouchStart(e.touches[0].clientX)}
+        onTouchEnd={(e) => {
+          if (touchStart === null) return
+          const diff = touchStart - e.changedTouches[0].clientX
+          if (Math.abs(diff) > 40) diff > 0 ? goNext() : goPrev()
+          setTouchStart(null)
+        }}
+      >
         {!loaded && (
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="w-6 h-6 border-2 border-gold/40 border-t-gold rounded-full animate-spin" />
@@ -100,8 +113,8 @@ export default function ImpressionGallery({ config, onSlideChange }: Props) {
 
         <button
           type="button"
-          onClick={() => setIndex((i) => (i - 1 + impression.slides.length) % impression.slides.length)}
-          className="absolute left-2 top-1/2 -translate-y-1/2 z-10 w-8 h-8 rounded-full bg-white/15 backdrop-blur text-white opacity-0 group-hover:opacity-100 transition-opacity hover:bg-white/25 flex items-center justify-center"
+          onClick={goPrev}
+          className="absolute left-2 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/25 backdrop-blur text-white opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity hover:bg-white/35 flex items-center justify-center"
           aria-label="Vorige foto"
         >
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -110,8 +123,8 @@ export default function ImpressionGallery({ config, onSlideChange }: Props) {
         </button>
         <button
           type="button"
-          onClick={() => setIndex((i) => (i + 1) % impression.slides.length)}
-          className="absolute right-2 top-1/2 -translate-y-1/2 z-10 w-8 h-8 rounded-full bg-white/15 backdrop-blur text-white opacity-0 group-hover:opacity-100 transition-opacity hover:bg-white/25 flex items-center justify-center"
+          onClick={goNext}
+          className="absolute right-2 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/25 backdrop-blur text-white opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity hover:bg-white/35 flex items-center justify-center"
           aria-label="Volgende foto"
         >
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -126,7 +139,7 @@ export default function ImpressionGallery({ config, onSlideChange }: Props) {
             key={s.src}
             type="button"
             onClick={() => setIndex(i)}
-            className={`shrink-0 w-14 h-10 rounded-lg overflow-hidden border-2 transition-all ${
+            className={`shrink-0 w-16 h-11 rounded-lg overflow-hidden border-2 transition-all ${
               i === index ? 'border-gold scale-105' : 'border-transparent opacity-60 hover:opacity-90'
             }`}
             aria-label={s.caption}

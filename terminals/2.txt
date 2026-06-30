@@ -3,7 +3,7 @@ pid: 6688
 cwd: "C:\Users\bernt\src\serreexclusief"
 command: "npm install"
 started_at: 2026-06-30T18:57:25.807Z
-running_for_ms: 7120004  
+running_for_ms: 7755005  
 ---
 npm warn deprecated prebuild-install@7.1.3: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
 npm error code 1
